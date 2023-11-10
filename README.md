@@ -1,3 +1,6 @@
+This is a Beginner level Project. In this project we have created a background change functionality.
+With adding react-Toastify
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
